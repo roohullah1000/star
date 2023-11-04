@@ -1,6 +1,6 @@
 aleo smart contract
 who
-shae
+shae8
 نصب پیش نیازها 
 ------------------------------------------------------------------
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
